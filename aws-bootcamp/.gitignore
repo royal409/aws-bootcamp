@@ -1,0 +1,13 @@
+/target
+/*.log
+*.DS_STORE
+.DS_STORE
+/.classpath
+/.project
+/.settings
+
+/**/.DS_STORE
+/**/**/.DS_STORE
+/LOG_FILE_IS_UNDEFINED
+/.DS_Store
+/.pydevproject
